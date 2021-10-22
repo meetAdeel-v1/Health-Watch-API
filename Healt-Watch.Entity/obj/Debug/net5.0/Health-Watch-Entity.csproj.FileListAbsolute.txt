@@ -1,0 +1,12 @@
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\bin\Debug\net5.0\Health-Watch-Entity.deps.json
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\bin\Debug\net5.0\Health-Watch-Entity.dll
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\bin\Debug\net5.0\ref\Health-Watch-Entity.dll
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\bin\Debug\net5.0\Health-Watch-Entity.pdb
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\obj\Debug\net5.0\Health-Watch-Entity.csprojAssemblyReference.cache
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\obj\Debug\net5.0\Health-Watch-Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\obj\Debug\net5.0\Health-Watch-Entity.AssemblyInfoInputs.cache
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\obj\Debug\net5.0\Health-Watch-Entity.AssemblyInfo.cs
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\obj\Debug\net5.0\Health-Watch-Entity.csproj.CoreCompileInputs.cache
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\obj\Debug\net5.0\Health-Watch-Entity.dll
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\obj\Debug\net5.0\ref\Health-Watch-Entity.dll
+D:\Demo Projects\Github\Health-Watch-API\Healt-Watch.Entity\obj\Debug\net5.0\Health-Watch-Entity.pdb

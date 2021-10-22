@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Health-Watch-BLL/1.0.0": {
+        "runtime": {
+          "Health-Watch-BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Health-Watch-BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

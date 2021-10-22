@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Health-Watch-DAL/1.0.0": {
+        "dependencies": {
+          "Health-Watch-Entity": "1.0.0"
+        },
+        "runtime": {
+          "Health-Watch-DAL.dll": {}
+        }
+      },
+      "Health-Watch-Entity/1.0.0": {
+        "runtime": {
+          "Health-Watch-Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Health-Watch-DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Health-Watch-Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
