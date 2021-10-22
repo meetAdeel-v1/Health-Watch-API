@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kWMdNEUB7WG/YdFUQ33+Bx+7ZUs67RRXRge+RvWHykgR7vkEoaFq1OvS5oj4bCTJtyPXktgYku2bKmCXxnzOVg==",
+  "dgSpecHash": "FtxAEZcfOF0jJYBaueh3LxI9a9gBriIzSxVj4uR4P3imbnifaCVupVBkOEWIR7azQw/chHvq7QiPz0hsuQZz3w==",
   "success": true,
-  "projectFilePath": "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\Healt-Watch.Entity.csproj",
+  "projectFilePath": "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\Health-Watch-Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
