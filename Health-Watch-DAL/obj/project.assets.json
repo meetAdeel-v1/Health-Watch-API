@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Health-Watch-Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Health-Watch-Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Health-Watch-Entity.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Health-Watch-Entity/1.0.0": {
+      "type": "project",
+      "path": "../Healt-Watch.Entity/Health-Watch-Entity.csproj",
+      "msbuildProject": "../Healt-Watch.Entity/Health-Watch-Entity.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Health-Watch-Entity >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\adeel.ahmad\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\Health-Watch-Entity.csproj": {
+              "projectPath": "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\Health-Watch-Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

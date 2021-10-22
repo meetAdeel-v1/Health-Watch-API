@@ -1,8 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Health_Watch_Utility</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Healt-Watch.Entity\Health-Watch-Entity.csproj" />
+    <ProjectReference Include="..\Health-Watch-DTO\Health-Watch-DTO.csproj" />
+  </ItemGroup>
 
 </Project>
