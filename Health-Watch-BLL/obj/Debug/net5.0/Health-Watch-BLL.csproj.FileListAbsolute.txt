@@ -2,7 +2,6 @@ D:\Demo Projects\Github\Health-Watch-API\Health-Watch-BLL\bin\Debug\net5.0\Healt
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-BLL\bin\Debug\net5.0\Health-Watch-BLL.dll
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-BLL\bin\Debug\net5.0\ref\Health-Watch-BLL.dll
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-BLL\bin\Debug\net5.0\Health-Watch-BLL.pdb
-D:\Demo Projects\Github\Health-Watch-API\Health-Watch-BLL\obj\Debug\net5.0\Health-Watch-BLL.csprojAssemblyReference.cache
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-BLL\obj\Debug\net5.0\Health-Watch-BLL.GeneratedMSBuildEditorConfig.editorconfig
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-BLL\obj\Debug\net5.0\Health-Watch-BLL.AssemblyInfoInputs.cache
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-BLL\obj\Debug\net5.0\Health-Watch-BLL.AssemblyInfo.cs

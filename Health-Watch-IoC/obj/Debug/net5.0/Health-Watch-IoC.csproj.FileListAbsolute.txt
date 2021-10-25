@@ -2,7 +2,6 @@ D:\Demo Projects\Github\Health-Watch-API\Health-Watch-IoC\bin\Debug\net5.0\Healt
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-IoC\bin\Debug\net5.0\Health-Watch-IoC.dll
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-IoC\bin\Debug\net5.0\ref\Health-Watch-IoC.dll
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-IoC\bin\Debug\net5.0\Health-Watch-IoC.pdb
-D:\Demo Projects\Github\Health-Watch-API\Health-Watch-IoC\obj\Debug\net5.0\Health-Watch-IoC.csprojAssemblyReference.cache
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-IoC\obj\Debug\net5.0\Health-Watch-IoC.GeneratedMSBuildEditorConfig.editorconfig
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-IoC\obj\Debug\net5.0\Health-Watch-IoC.AssemblyInfoInputs.cache
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-IoC\obj\Debug\net5.0\Health-Watch-IoC.AssemblyInfo.cs
