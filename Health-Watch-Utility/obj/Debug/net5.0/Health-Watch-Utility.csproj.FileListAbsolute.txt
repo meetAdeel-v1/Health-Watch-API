@@ -3,8 +3,6 @@ D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\bin\Debug\net5.0\H
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\bin\Debug\net5.0\ref\Health-Watch-Utility.dll
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\bin\Debug\net5.0\Health-Watch-Utility.pdb
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\bin\Debug\net5.0\Health-Watch-DTO.dll
-D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\bin\Debug\net5.0\Health-Watch-Entity.dll
-D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\bin\Debug\net5.0\Health-Watch-Entity.pdb
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\bin\Debug\net5.0\Health-Watch-DTO.pdb
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\obj\Debug\net5.0\Health-Watch-Utility.csprojAssemblyReference.cache
 D:\Demo Projects\Github\Health-Watch-API\Health-Watch-Utility\obj\Debug\net5.0\Health-Watch-Utility.GeneratedMSBuildEditorConfig.editorconfig

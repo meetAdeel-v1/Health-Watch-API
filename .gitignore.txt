@@ -40,11 +40,19 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
-/.vs
+.vs/Health-Watch-API/
+
 Health-Watch-API/obj/
-Health-Watch.Entity/obj/
-Health-Watch.DAL/obj/
-Health-Watch.Utility/obj/
+Health-Watch-Entity/obj/
+Health-Watch-Entity/bin/
+Health-Watch-BLL/obj/
+Health-Watch-BLL/bin/
+Health-Watch-DAL/obj/
+Health-Watch-DAL/obj/
+Health-Watch-Utility/obj/
+Health-Watch-Utility/bin/
+Health-Watch-IoC/obj/
+Health-Watch-DTO/obj/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 

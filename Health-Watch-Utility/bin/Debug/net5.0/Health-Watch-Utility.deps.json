@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Health-Watch-Utility/1.0.0": {
         "dependencies": {
-          "Health-Watch-DTO": "1.0.0",
-          "Health-Watch-Entity": "1.0.0"
+          "Health-Watch-DTO": "1.0.0"
         },
         "runtime": {
           "Health-Watch-Utility.dll": {}
@@ -18,11 +17,6 @@
       "Health-Watch-DTO/1.0.0": {
         "runtime": {
           "Health-Watch-DTO.dll": {}
-        }
-      },
-      "Health-Watch-Entity/1.0.0": {
-        "runtime": {
-          "Health-Watch-Entity.dll": {}
         }
       }
     }
@@ -34,11 +28,6 @@
       "sha512": ""
     },
     "Health-Watch-DTO/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Health-Watch-Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
