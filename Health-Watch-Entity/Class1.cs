@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Healt_Watch.Entity
+namespace Health_Watch_Entity
 {
     public class Class1
     {

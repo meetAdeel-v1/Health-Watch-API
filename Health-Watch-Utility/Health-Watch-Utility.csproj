@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Healt-Watch.Entity\Health-Watch-Entity.csproj" />
     <ProjectReference Include="..\Health-Watch-DTO\Health-Watch-DTO.csproj" />
   </ItemGroup>
 

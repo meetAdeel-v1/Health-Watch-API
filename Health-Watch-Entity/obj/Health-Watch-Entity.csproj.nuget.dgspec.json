@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\Health-Watch-Entity.csproj": {}
+    "D:\\Demo Projects\\Github\\Health-Watch-API\\Health-Watch-Entity\\Health-Watch-Entity.csproj": {}
   },
   "projects": {
-    "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\Health-Watch-Entity.csproj": {
+    "D:\\Demo Projects\\Github\\Health-Watch-API\\Health-Watch-Entity\\Health-Watch-Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\Health-Watch-Entity.csproj",
+        "projectUniqueName": "D:\\Demo Projects\\Github\\Health-Watch-API\\Health-Watch-Entity\\Health-Watch-Entity.csproj",
         "projectName": "Health-Watch-Entity",
-        "projectPath": "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\Health-Watch-Entity.csproj",
+        "projectPath": "D:\\Demo Projects\\Github\\Health-Watch-API\\Health-Watch-Entity\\Health-Watch-Entity.csproj",
         "packagesPath": "C:\\Users\\adeel.ahmad\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo Projects\\Github\\Health-Watch-API\\Healt-Watch.Entity\\obj\\",
+        "outputPath": "D:\\Demo Projects\\Github\\Health-Watch-API\\Health-Watch-Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adeel.ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
