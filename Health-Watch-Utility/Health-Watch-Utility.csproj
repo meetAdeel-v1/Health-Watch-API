@@ -6,7 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Health-Watch-DTO\Health-Watch-DTO.csproj" />
+    <ProjectReference Include="..\Health-Watch-Entity\Health-Watch-Entity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Utilities\" />
   </ItemGroup>
 
 </Project>

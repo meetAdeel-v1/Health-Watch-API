@@ -5,4 +5,8 @@
     <RootNamespace>Health_Watch_DAL</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Health-Watch-Entity\Health-Watch-Entity.csproj" />
+  </ItemGroup>
+
 </Project>
