@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Health_Watch_Utility.Utilities
 {
-    public class AutopMapperProfiles
+    public static class AutopMapperProfiles
     {
         public class AutoMapperProfile : Profile
         {
