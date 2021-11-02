@@ -18,10 +18,12 @@ namespace Health_Watch_IoC
 
         public void InjectDependencies(IServiceCollection services)
         {
+            //Add In-Memory Cache Service
+            services.AddMemoryCache();
             //Add DbContext service
 
             //Add AutoMapper service
-
+            
             //Add other transient,scoped,singleton services here
         }
     }
