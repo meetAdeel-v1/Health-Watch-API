@@ -19,6 +19,27 @@ namespace Health_Watch_API.Controllers
             return new string[] { "value1", "value2" };
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Login()
+        {
+            return null;
+        }
+        [HttpPost]
+        public async Task<IActionResult> Login(string s)
+        {
+            return null;
+        }
+        [HttpGet]
+        public async Task<IActionResult> Signup()
+        {
+            return null;
+        }
+        [HttpPost]
+        public async Task<IActionResult> Signup(string s)
+        {
+            return null;
+        }
+
         // GET api/<AccountController>/5
         [HttpGet("{id}")]
         public string Get(int id)
