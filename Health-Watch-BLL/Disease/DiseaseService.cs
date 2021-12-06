@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Health_Watch_BLL.Disease
 {
-    public class DiseaseService
+    public class DiseaseService : IDiseaseService
     {
         private readonly IDiseaseRepository _diseaseRepository;
         private readonly IMapper _mapper;
