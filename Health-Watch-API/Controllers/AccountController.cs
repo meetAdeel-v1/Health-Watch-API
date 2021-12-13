@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Health_Watch_DTO.DTOs.User;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,7 +26,7 @@ namespace Health_Watch_API.Controllers
             return null;
         }
         [HttpPost]
-        public async Task<IActionResult> Login(string s)
+        public async Task<IActionResult> Login(UserToListDTO user)
         {
             return null;
         }
@@ -35,7 +36,7 @@ namespace Health_Watch_API.Controllers
             return null;
         }
         [HttpPost]
-        public async Task<IActionResult> Signup(string s)
+        public async Task<IActionResult> Signup(UserToAddDTO user)
         {
             return null;
         }
