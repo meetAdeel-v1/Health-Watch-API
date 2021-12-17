@@ -12,4 +12,8 @@
     <ProjectReference Include="..\Health-Watch-Utility\Health-Watch-Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="User\" />
+  </ItemGroup>
+
 </Project>
