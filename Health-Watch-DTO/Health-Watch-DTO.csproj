@@ -5,4 +5,8 @@
     <RootNamespace>Health_Watch_DTO</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+
 </Project>
